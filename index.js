@@ -1,6 +1,6 @@
 
 let nome = "Pietro";
-let xp = 10000;
+var xp = 0;
 
 if (xp < 1001) {
     console.log(nome + " é ferro!")
@@ -21,3 +21,17 @@ if (xp < 1001) {
 } else {
     console.log(nome + " não é rankeado!")
 }
+
+/*for (var xp = 0; xp < 1001; xp++) {
+  console.log(nome + " o seu " + xp + " é ferro" );
+}  teste com for*/
+
+/*i=0;
+do {
+    i += 1;
+    xp += i + " ";
+  } while (i < 1000);
+
+  console.log("Seu xp é " + i + " " + nome + " Portanto você é ferro!");
+
+  teste com do while/*

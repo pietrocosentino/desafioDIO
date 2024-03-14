@@ -34,4 +34,4 @@ do {
 
   console.log("Seu xp é " + i + " " + nome + " Portanto você é ferro!");
 
-  teste com do while/*
+  teste com do while*/
